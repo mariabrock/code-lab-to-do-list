@@ -32,9 +32,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/desktop.png)
-![](./assets/tasks.png)
-![](./assets/mobile.png)
+![](./img/desktop.png)
+![](./img/tasks.png)
+![](./img/mobile.png)
 
 
 ### Links
