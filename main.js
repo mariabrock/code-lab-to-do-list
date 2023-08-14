@@ -34,8 +34,6 @@ addTask.addEventListener('click', function() {
   if(inputTask.value === "") {
     alert('Please enter a task!');
   } else {
-    // let id = Math.floor(Math.random()).toString()
-    // console.log(id)
     taskContainer.appendChild(task);
   }
 
